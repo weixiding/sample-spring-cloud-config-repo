@@ -21,6 +21,6 @@ management:
     
 sample:
   string:
-    property: Client Application by weijinhao
+    property: Client Application by zhaijiayi
   int:
-    property: 5
+    property: 10
