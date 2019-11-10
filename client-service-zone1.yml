@@ -21,6 +21,6 @@ management:
     
 sample:
   string:
-    property: Client Application by zhaijiayi
+  property: Client Application by zhaijiayi wo hou hui mei you gen ni zai yi qi
   int:
     property: 10
